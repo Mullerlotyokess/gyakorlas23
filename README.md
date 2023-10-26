@@ -3,3 +3,4 @@
 # böngésző commit
 # vs code 
 # vs code 02
+# konfliktus böngésző
